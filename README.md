@@ -36,4 +36,19 @@ Try the live customer request form:
 https://kasarba.app.n8n.cloud/form/customer-request
 
 ## 📸 Project Screenshots
- 
+## 📸 Workflow Screenshots
+
+### Customer Request Form
+![Customer Request Form](IMG_8527.jpeg)
+
+### Customer Request Submitted
+![Customer Request Submitted](IMG_8528.jpeg)
+
+### AI Request Analysis
+![AI Request Analysis](IMG_8529.jpeg)
+
+### Priority Routing
+![Priority Routing](IMG_8530.jpeg)
+
+### Successful Workflow Execution
+![Successful Workflow Execution](IMG_8531.jpeg) 
